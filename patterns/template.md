@@ -2,6 +2,8 @@
 
 This is a short description of this pattern and what it is used for.
 
+Explain the context where this pattern might happen. Group context? Direct message? Where is this pattern best used?
+
 ## Example Dialog
 
 USER: @bot hello

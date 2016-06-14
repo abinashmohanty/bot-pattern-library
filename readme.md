@@ -12,7 +12,7 @@ Feel confident that you've identified a useful pattern? Know how to use Git? Get
 
 1. Checkout or fork this repository to your own Github account.
 
-2. Add or update patterns in the [patterns/](patterns) folder.  Your pattern should be described in a markdown file - use [this template](patterns/template.md) as a starting point.
+2. Add or update patterns in the [patterns/](https://github.com/howdyai/bot-pattern-library/tree/master/patterns) folder.  Your pattern should be described in a markdown file - use [this template](https://github.com/howdyai/bot-pattern-library/blob/master/patterns/template.md) as a starting point.
 
 3. Send a pull request with your changes!
 
@@ -20,7 +20,7 @@ Feel confident that you've identified a useful pattern? Know how to use Git? Get
 
 Have questions? Have an idea but aren't feeling confident enough to contribute? You can still help!
 
-[Submit an issue](/issues)! The community of bot developers will help find an answer, and these answers will lead to more direct contributions.
+[Submit an issue](https://github.com/howdyai/bot-pattern-library/issues)! The community of bot developers will help find an answer, and these answers will lead to more direct contributions.
 
 ## Community
 

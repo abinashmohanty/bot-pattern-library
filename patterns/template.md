@@ -9,3 +9,7 @@ Explain the context where this pattern might happen. Group context? Direct messa
 USER: @bot hello
 
 BOT: Oh hello @user! I am a helpful bot that automates certain tasks.
+
+## Reference Implementation
+
+Write some code showing how this might work. Make sure you specify what tool the demo code is using!

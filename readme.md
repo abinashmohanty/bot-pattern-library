@@ -6,8 +6,21 @@ Much like [a pattern library for GUI software](http://styleguides.io/examples.ht
 
 ## How to Contribute
 
+### Contribute Directly
 
+Feel confident that you've identified a useful pattern? Know how to use Git? Get started!
 
+1. Checkout or fork this repository to your own Github account.
+
+2. Add or update patterns in the [patterns/](patterns) folder.  Your pattern should be described in a markdown file - use [this template](patterns/template.md) as a starting point.
+
+3. Send a pull request with your changes!
+
+### Contribute Indirectly
+
+Have questions? Have an idea but aren't feeling confident enough to contribute? You can still help!
+
+[Submit an issue](/issues)! The community of bot developers will help find an answer, and these answers will lead to more direct contributions.
 
 ## Community
 
